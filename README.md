@@ -47,7 +47,7 @@ This portfolio was created to professionally present my work, skills, and achiev
 Add your deployed portfolio link here:
 
 ```text
-https://your-portfolio-link.com
+https://afshan.github.io/personal-portfolio/
 ```
 
 ## 📧 Contact
