@@ -24,7 +24,6 @@ The website is designed with a strong focus on responsiveness, performance, acce
 * JavaScript
 * Tailwind CSS
 
-```
 
 ## 🎯 Purpose
 
