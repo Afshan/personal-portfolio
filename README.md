@@ -24,18 +24,6 @@ The website is designed with a strong focus on responsiveness, performance, acce
 * JavaScript
 * Tailwind CSS
 
-## 📂 Project Structure
-
-```text
-portfolio-website/
-│
-├── index.html
-├── css/
-├── js/
-├── assets/
-│   ├── images/
-│   └── icons/
-└── README.md
 ```
 
 ## 🎯 Purpose
